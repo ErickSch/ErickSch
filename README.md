@@ -2,7 +2,7 @@
 
 **`Hello`**
 
-I'm an active and proud student at ITESM in Mexico, I love programming and I'm currently studying a B.S. in Computer Sciences & Technologies. I'm originally from Culiacán, Sinaloa but I study in Monterrey, Nuevo León.
+I'm a student at ITESM in Mexico, I love programming and I'm currently studying a B.S. in Computer Sciences & Technologies. I'm originally from Culiacán, Sinaloa but I study in Monterrey, Nuevo León.
 
 <!--
 **ErickSch/ErickSch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
