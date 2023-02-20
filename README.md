@@ -15,6 +15,7 @@ I'm a student at ITESM in Mexico, I love programming and I'm currently on my 2nd
 -MySQL (Intermediate)
 
 
+
 **`🧑‍💻Web Developement:`**
 
 -HTML (Intermediate)
