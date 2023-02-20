@@ -6,7 +6,6 @@ I'm a student at ITESM in Mexico, I love programming and I'm currently on my 2nd
 
 **`👨‍💻 I've programmed in:`**
 
-
 -Python (Intermediate)
 
 -C++ (Intermediate)
@@ -14,8 +13,6 @@ I'm a student at ITESM in Mexico, I love programming and I'm currently on my 2nd
 -Matlab (Intermediate)
 
 -MySQL (Intermediate)
-
--R (Begginer)
 
 
 **`🧑‍💻Web Developement:`**
@@ -26,9 +23,9 @@ I'm a student at ITESM in Mexico, I love programming and I'm currently on my 2nd
 
 -Bootstrap (Intermediate) 
 
--Javascript (Begginer)
+-Javascript (Intermediate)
 
--Django (Beginner-Intermediate)
+-Django (Intermediate)
 
 
 <!--
