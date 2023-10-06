@@ -6,7 +6,7 @@ I'm a student at ITESM in Mexico, I love programming and I'm currently on my 3rd
 
 **`👨‍💻 I've programmed in:`**
 
-Python 
+ - Python 
  - C++
  - Javascript 
  - React.js
