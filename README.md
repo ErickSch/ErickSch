@@ -2,7 +2,7 @@
 
 **`Hello`**
 
-I'm a student at ITESM in Mexico, I love programming and I'm currently on my 3rd year of my B.S. in Computer Sciences & Technologies. I'm originally from Culiacán, Sinaloa but I study in Monterrey, Nuevo León in Mexico.
+I'm a student at ITESM in Mexico, I love programming and I'm currently on my 4th year of my B.S. in Computer Sciences & Technologies. I'm originally from Culiacán, Sinaloa but I study in Monterrey, Nuevo León in Mexico.
 
 **`👨‍💻 I've programmed in:`**
 
