@@ -2,7 +2,7 @@
 
 **`Hello`**
 
-I'm a graduate from B.S. in Computer Sciences & Technologies in 2025 at ITESM in Mexico.
+B.S. in Computer Sciences & Technologies in at ITESM in Mexico. Graduated 2025.
 
 **`👨‍💻 I've programmed in:`**
 
