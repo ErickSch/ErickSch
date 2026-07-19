@@ -2,7 +2,7 @@
 
 **`Hello`**
 
-I'm a graduate from B.S. in Computer Sciences & Technologies in 2025 at ITESM in Mexico. I'm originally from Culiacán, Sinaloa but I studied in Monterrey, Nuevo León in Mexico.
+I'm a graduate from B.S. in Computer Sciences & Technologies in 2025 at ITESM in Mexico.
 
 **`👨‍💻 I've programmed in:`**
 
